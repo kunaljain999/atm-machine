@@ -1,0 +1,3 @@
+maha,maha,12345,maha,500.0
+kunal,kunal,98765,kunal,100.0
+root,root,11687,root,800.0

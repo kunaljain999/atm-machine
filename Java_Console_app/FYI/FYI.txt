@@ -1,0 +1,38 @@
+Main task
+
+This system is to display the transaction details of the user. Firstly, select the options from login or register. To either logging in using the username and password or registering with new account name.
+
+Purpose
+
+The console prompts the users to enter the login credentials. If the username and password is entered correctly, it will display menu with multiple operations to do.
+
+If the username or the password entered incorrectly, it will display an error message as "Invalid Username/Password".
+
+Selecting the options from login or register as new user: 
+1) - Login
+2) - Register
+3) - Exit
+
+The login option have further options like,
+
+Operations
+1. Check balance
+2. Deposit
+3. withdraw
+4. view previous Transaction
+5. Exit
+
+to view the account balance, deposit the funds, withdraw funds, view previous transaction and exit.
+
+Backend
+
+Backend - CustomerDetails.txt
+
+It is mainly used to store the user's name, password, account number and account balance.
+
+Test
+
+Testing scenarios -
+
+Testing with duplicate username and password - It should show the error "Invalid username/Password".
+Exit option should send the end message as "Thank you for using servises. visit again".
